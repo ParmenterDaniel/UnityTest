@@ -281,7 +281,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
---- !u!1 &916394754
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2198,6 +2197,3 @@ SceneRoots:
   - {fileID: 705507995}
   - {fileID: 1786641046}
   - {fileID: 1673516732}
-  - {fileID: 916394756}
-  - {fileID: 410019955}
-  - {fileID: 1374359160}
